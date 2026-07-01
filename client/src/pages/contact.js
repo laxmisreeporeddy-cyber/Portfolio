@@ -23,6 +23,7 @@ export default function Contact() {
     { label: 'laxmisreeporeddy@gmail.com', href: 'mailto:laxmisreeporeddy@gmail.com', icon: '✉' },
     { label: 'linkedin.com/in/laxmi-sree-poreddy', href: 'https://www.linkedin.com/in/laxmi-sree-poreddy-090a80397', icon: 'in' },
     { label: 'github.com/laxmisreeporeddy-cyber', href: 'https://github.com/laxmisreeporeddy-cyber', icon: '⌂' },
+    { label: 'portfolio-laxmisree.vercel.app', href: 'https://portfolio-laxmisree-fth8g37lk-laxmisree.vercel.app/', icon: '🌐' },
   ];
 
   return (

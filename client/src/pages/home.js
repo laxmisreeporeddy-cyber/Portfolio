@@ -129,7 +129,7 @@ export default function Home() {
               </div>
 
               <div style={{ ...fade(0.5), display: 'flex', gap: '2.5rem' }}>
-                {[['3+', 'Projects'], ['5+', 'Certifications'], ['90%', 'GPA (B.Tech)']].map(([n, l]) => (
+                {[['3+', 'Projects'], ['5+', 'Certifications'], ['81%', 'CGPA (B.Tech)']].map(([n, l]) => (
                   <div key={l}>
                     <div style={{ fontFamily: 'Playfair Display, serif', fontSize: '1.8rem', fontWeight: 700, color: '#d4af37', lineHeight: 1 }}>{n}</div>
                     <div style={{ fontFamily: 'DM Sans, sans-serif', fontSize: '0.72rem', color: 'rgba(200,185,155,0.6)', textTransform: 'uppercase', letterSpacing: '0.1em', marginTop: 4 }}>{l}</div>
@@ -225,7 +225,7 @@ export default function Home() {
             </p>
             <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
               <Link to="/contact" style={{ padding: '0.9rem 2.5rem', background: 'linear-gradient(135deg,#d4af37,#f0d060)', color: '#050a1e', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.82rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase' }}>Get In Touch</Link>
-              <a href="https://www.linkedin.com/in/laxmisree-prasanna-359047285" target="_blank" rel="noreferrer" style={{ padding: '0.9rem 2.5rem', background: 'transparent', color: '#d4af37', border: '1px solid rgba(212,175,55,0.4)', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.82rem', fontWeight: 400, letterSpacing: '0.08em', textTransform: 'uppercase' }}>LinkedIn Profile</a>
+              <a href="https://www.linkedin.com/in/laxmi-sree-poreddy-090a80397" target="_blank" rel="noreferrer" style={{ padding: '0.9rem 2.5rem', background: 'transparent', color: '#d4af37', border: '1px solid rgba(212,175,55,0.4)', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.82rem', fontWeight: 400, letterSpacing: '0.08em', textTransform: 'uppercase' }}>LinkedIn Profile</a>
             </div>
           </div>
         </div>
@@ -234,7 +234,7 @@ export default function Home() {
         <div style={{ padding: '2rem 3rem', borderTop: '1px solid rgba(212,175,55,0.1)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
           <span style={{ fontFamily: 'Cormorant Garamond, serif', fontSize: '0.85rem', color: 'rgba(212,175,55,0.5)' }}>© 2026 Poreddy Laxmisree. All rights reserved.</span>
           <div style={{ display: 'flex', gap: '1.5rem' }}>
-            {[['GitHub','https://github.com/laxmisree'],['LinkedIn','https://www.linkedin.com/in/laxmisree-prasanna-359047285'],['Email','mailto:laxmisreeprasanna@gmail.com']].map(([l,h]) => (
+            {[['GitHub','https://github.com/laxmisreeporeddy-cyber'],['LinkedIn','https://www.linkedin.com/in/laxmi-sree-poreddy-090a80397'],['Email','mailto:laxmisreeporeddy@gmail.com']].map(([l,h]) => (
               <a key={l} href={h} target="_blank" rel="noreferrer" style={{ fontFamily: 'DM Sans, sans-serif', fontSize: '0.72rem', color: 'rgba(212,175,55,0.4)', textDecoration: 'none', letterSpacing: '0.08em', textTransform: 'uppercase', transition: 'color 0.2s' }}>{l}</a>
             ))}
           </div>

@@ -55,7 +55,7 @@ function Stats() {
       <section className="stats">
 
         <div className="card">
-          <h2>90%</h2>
+          <h2>81%</h2>
           <p>Academic Performance</p>
         </div>
 

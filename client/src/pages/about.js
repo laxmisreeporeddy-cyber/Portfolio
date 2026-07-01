@@ -61,7 +61,7 @@ export default function About() {
               </p>
               <div style={{ display: 'flex', gap: '1rem' }}>
                 <a href="/Resume.pdf" download="Poreddy_Laxmisree_Resume.pdf" target="_blank" rel="noreferrer" style={{ padding: '0.75rem 2rem', background: 'linear-gradient(135deg,#d4af37,#f0d060)', color: '#050a1e', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.78rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase' }}>Download CV</a>
-                <a href="https://www.linkedin.com/in/laxmisree-prasanna-359047285" target="_blank" rel="noreferrer" style={{ padding: '0.75rem 2rem', background: 'transparent', color: '#d4af37', border: '1px solid rgba(212,175,55,0.4)', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.78rem', fontWeight: 400, letterSpacing: '0.08em', textTransform: 'uppercase' }}>LinkedIn</a>
+                <a href="https://www.linkedin.com/in/laxmi-sree-poreddy-090a80397" target="_blank" rel="noreferrer" style={{ padding: '0.75rem 2rem', background: 'transparent', color: '#d4af37', border: '1px solid rgba(212,175,55,0.4)', borderRadius: 2, textDecoration: 'none', fontFamily: 'DM Sans, sans-serif', fontSize: '0.78rem', fontWeight: 400, letterSpacing: '0.08em', textTransform: 'uppercase' }}>LinkedIn</a>
               </div>
             </div>
 
