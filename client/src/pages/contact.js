@@ -19,9 +19,10 @@ export default function Contact() {
   };
 
   const LINKS = [
-    { label: 'laxmisreeprasanna@gmail.com', href: 'mailto:laxmisreeprasanna@gmail.com', icon: '✉' },
-    { label: 'linkedin.com/in/laxmisree-prasanna', href: 'https://www.linkedin.com/in/laxmisree-prasanna-359047285', icon: 'in' },
-    { label: 'github.com/laxmisree', href: 'https://github.com/laxmisree', icon: '⌂' },
+    { label: '+91 7416598126', href: 'tel:+917416598126', icon: '📞' },
+    { label: 'laxmisreeporeddy@gmail.com', href: 'mailto:laxmisreeporeddy@gmail.com', icon: '✉' },
+    { label: 'linkedin.com/in/laxmi-sree-poreddy', href: 'https://www.linkedin.com/in/laxmi-sree-poreddy-090a80397', icon: 'in' },
+    { label: 'github.com/laxmisreeporeddy-cyber', href: 'https://github.com/laxmisreeporeddy-cyber', icon: '⌂' },
   ];
 
   return (
